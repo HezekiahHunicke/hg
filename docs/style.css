@@ -1,0 +1,5 @@
+html { max-width: 700px; margin-left: auto; margin-right: auto; }
+body { display: flow-root; }
+.topnav { float: right; }
+h1, .footer { text-align: center; clear: both; }
+h1 + p > big { display: block; text-align: center; }
